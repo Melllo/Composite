@@ -1,0 +1,13 @@
+E:\C#\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+E:\C#\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+E:\C#\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+E:\C#\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+E:\C#\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+E:\C#\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+E:\C#\Composite\obj\Debug\netcoreapp3.1\Composite.csprojAssemblyReference.cache
+E:\C#\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+E:\C#\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+E:\C#\Composite\obj\Debug\netcoreapp3.1\Composite.csproj.CoreCompileInputs.cache
+E:\C#\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+E:\C#\Composite\obj\Debug\netcoreapp3.1\Composite.pdb
+E:\C#\Composite\obj\Debug\netcoreapp3.1\Composite.genruntimeconfig.cache
